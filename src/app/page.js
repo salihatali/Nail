@@ -7,7 +7,7 @@ export default function Home() {
       <header className="header">
         <h1>Sudenaz Nail Studio</h1>
         <p>Profesyonel Protez Tırnak</p>
-        <a href="https://wa.me/905XXXXXXXXX" className="btn">
+        <a href="https://instagram.com/sudenaz.nailss" className="btn">
           Randevu Al
         </a>
       </header>
